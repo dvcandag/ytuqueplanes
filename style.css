@@ -1,5 +1,136 @@
-.seguridad{
-	/* la propiedad background permite colocar un color o imagen de fondo */
-	background: url("img/viaje-seguro.jpg") no-repeat center center;
-	height: 300px;
+body{
+	margin: 20px;
 }
+
+
+
+.seguridad{
+	
+	height: 300px;
+	padding: 30px;
+}
+.contorno-menu {
+background: url(img/fondo-menu.png);
+	list-style: none;	
+	color: #FBEFF8;
+	margin: 0px;
+	padding: 0px;
+font-weight: bold;
+
+}
+.menu li{
+
+	display: inline-block;
+	padding: 20px;
+	color: #FBEFF8;
+
+}
+
+.redessociales {
+	padding-left: 1000px;
+	}
+
+.contenido{
+
+	text-align: center;
+	
+}
+.contenido div{
+
+	padding-left: 40;
+
+}
+.cabecera {
+
+	background: url ("image/fondo-menu.png");
+}
+.banner{
+	padding-top: 70px;
+	padding-bottom: 70px;
+}
+
+.descubre-amazonas{
+
+	color: #DD1B1B;
+	padding-bottom: 20px;
+}
+.promociones{
+	color: #DD1B1B;
+	padding-bottom: 20px;
+}
+
+
+.parrafo-uno div{
+
+	text-align: center;
+}
+
+.Mapas{
+background: #0000FF;
+color: #fff;
+padding-bottom: 10px;
+padding-top: 10px;
+text-align: center;
+font-weight: bold;
+width: 280px;
+}
+.galeria {
+background: #DF7401;
+color: #fff;
+padding-bottom: 10px;
+padding-top: 10px;
+text-align: center;
+font-weight: bold;
+width: 280px;
+}
+.informacion{
+background: #688A08;
+color: #fff;
+padding-bottom: 10px;
+padding-top: 10px;
+text-align: center;
+font-weight: bold;
+width: 280px;
+}
+
+.separar{
+	margin-top: 40px;
+	margin-bottom: 40px;
+
+
+
+
+}
+.fondo-footer{
+	
+	padding-top: 150px;
+	padding-left: 50px;
+	padding-right: 50px;
+	padding-bottom: 30px;
+}
+.fondo-footer ul{
+	list-style: none;
+	padding: 0;
+	margin: 0;
+	
+}
+.fondo-footer ul li a{
+	color:#000;
+}
+
+
+.titulo-footer{
+	color:#cb7307;
+	font-size: 20px;
+	font-weight: bold;
+
+}
+.terminos{
+	text-align: right;
+}
+
+.seguridad{
+background:
+
+}
+
